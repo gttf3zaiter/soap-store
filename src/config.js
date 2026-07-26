@@ -1,2 +1,2 @@
 
-export const API_URL = " https://soap-store-n74h.onrender.com";
+export const API_URL = import.meta.env.VITE_API_URL;
