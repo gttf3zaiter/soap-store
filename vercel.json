@@ -1,16 +1,8 @@
 {
   "rewrites": [
     {
-      "source": "/shop",
-      "destination": "/"
-    },
-    {
-      "source": "/cart",
-      "destination": "/"
-    },
-    {
-      "source": "/checkout",
-      "destination": "/"
+      "source": "/(.*)",
+      "destination": "/index.html"
     }
   ]
 }
