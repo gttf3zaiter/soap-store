@@ -20,7 +20,8 @@ function Home() {
           <p>
             Discover beautifully scented soaps made with carefully
             selected ingredients. Find your favorite fragrance and
-            enjoy simple care delivered to your door.
+            enjoy simple care delivered to your door. Not suspicious at all.
+             This isn't a drug business disguised as a soap business.
           </p>
 
 
